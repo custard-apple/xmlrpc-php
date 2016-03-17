@@ -1,0 +1,55 @@
+body{
+	background-color: #ffbb33;
+
+}
+.rpc_form{
+	padding: 5%;
+}
+
+.rpc_select{
+	padding: 10px;
+	border:none;
+	width: 250px;
+	background: #ffaa00;
+	font-size: 20;
+	font-family:Brush Script MT ;
+	font-style: italic;
+	font-weight: bold;
+}
+/*#arguments .myform{
+	padding: 20px;
+}*/
+#arguments .myform .num {
+	padding: 10px;
+	border:none;
+	width: 250px;
+	background: #ffcc66;
+	color: #000;
+	font-size: 20;
+	font-family:Brush Script MT ;
+	font-style: italic;
+	font-weight: bold;
+}
+#arguments .myform .send_req{
+	padding: 10px;
+	padding-left: 40px;
+	border-radius: 5px;
+	margin-left: 20px;	
+	border:none;
+	width: 200px;
+	background: #996600;
+	font-size: 20;
+	font-family:Brush Script MT ;
+	font-style: italic;
+	font-weight: bold;
+}
+#resp{
+	padding: 10px;
+	border:none;
+	width: 40%;
+	background: transparent;
+	font-size: 20;
+	font-family:Brush Script MT ;
+	font-style: italic;
+	font-weight: bold;
+}
